@@ -3,6 +3,7 @@
     padding: 112px 0;
     position: relative;
     z-index: -1;
+    overflow: hidden;
 }
 
 .content_circle {
@@ -12,10 +13,9 @@
     background: #68637D;
     position: absolute;
     z-index: -1;
-    top: -238px;
-    left: 123px;
-    top: -350px;
-    left: -149px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .content_info {
@@ -23,8 +23,6 @@
     color: #FFF;
     text-align: center;
     margin: 0 auto;
-    font-family: Inter;
-    /* z-index: 1; */
     position: relative;
 }
 
@@ -51,4 +49,5 @@
     font-weight: 500;
     text-transform: uppercase;
     border: 0px;
+    color: #000;
 }
