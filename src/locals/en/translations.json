@@ -1,3 +1,6 @@
 {
-    "hello": "hello"
+    "content-title": "привет",
+    "content-paragraph-1": "привет",
+    "content-paragraph-2": "привет",
+    "content-button": "Деятели"
 }

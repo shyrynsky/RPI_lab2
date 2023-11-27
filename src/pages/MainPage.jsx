@@ -1,8 +1,9 @@
-import { useTranslation } from "react-i18next";
+import { MainContent } from "../components/MainContent/MainContent.jsx";
 
 export function MainPage() {
-    const { t } = useTranslation("ns1");
     return (
-        <h1>{t("hello")}</h1>
+        <>
+            <MainContent />
+        </>
     );
 }
