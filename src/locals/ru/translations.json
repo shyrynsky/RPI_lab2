@@ -18,6 +18,42 @@
             "description": "Основатель интернет-компании",
             "company": "Amazon.com",
             "compLogo": "/img/AmazonLogo.svg"
+        },
+        {
+            "id": 2,
+            "name": "Билл",
+            "surname": "Гейтс",
+            "photo": "/img/bill_gates.png",
+            "description": "Один из создателей и бывший крупнейший акционер компании",
+            "company": "Microsoft",
+            "compLogo": "/img/MicrosoftLogo.svg"
+        },
+        {
+            "id": 3,
+            "name": "Дженсен",
+            "surname": "Хуанг",
+            "photo": "/img/jensen_huang.png",
+            "description": "Президент и главный исполнительный директор компании",
+            "company": "NVIDIA",
+            "compLogo": "/img/NVIDIALogo.svg"
+        },
+        {
+            "id": 4,
+            "name": "Стив",
+            "surname": "Джобс",
+            "photo": "/img/steve_jobs.png",
+            "description": "Один из основателей, председатель совета директоров корпорации",
+            "company": "Apple",
+            "compLogo": "/img/AppleLogo.svg"
+        },
+        {
+            "id": 5,
+            "name": "Марк",
+            "surname": "Цукерберг",
+            "photo": "/img/mark_zuckerberg.png",
+            "description": "Один из основателей и генеральный директор компании",
+            "company": "Meta",
+            "compLogo": "/img/MetaLogo.svg"
         }
     ]
 }
