@@ -1,0 +1,19 @@
+.person_of_the_day_section {
+    padding: 112px 0;
+}
+
+.person_of_the_day_title {
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0 0 15px;
+    color: #000;
+}
+
+.person_of_the_day_paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #5A5A5A;
+    max-width: 200px;
+    margin: 0;
+}
