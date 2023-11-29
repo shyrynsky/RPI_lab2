@@ -10,6 +10,7 @@ export function PersonList() {
             <div className="container">
                 {persons.map((data) => (
                     <Person
+                        key={data.id}
                         name={data.name}
                         surname={data.surname}
                         photo={data.photo}

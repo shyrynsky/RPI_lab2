@@ -14,10 +14,12 @@ export function Person({ name, surname, photo, description, company, compLogo })
                     </div>
                 </div>
                 <div className="person_info">
-                    <div className="person_line"></div>
-                    <p className="person__title">{name}</p>
-                    <p className="person__title">{surname}</p>
-                    <p className="person_paragraph">{description} <span className="person_company">{company}</span></p>
+                    <div className="person_text_info">
+                        <div className="person_line"></div>
+                        <p className="person__title">{name}</p>
+                        <p className="person__title">{surname}</p>
+                        <p className="person_paragraph">{description} <span className="person_company">{company}</span></p>
+                    </div>
                     <button className="person_button">{t("person-button")}</button>
                 </div>
             </div>

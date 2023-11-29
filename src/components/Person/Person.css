@@ -1,5 +1,5 @@
 .person_elem {
-    padding: 50px 0;
+    padding: 80px 0;
     overflow: hidden;
 }
 
@@ -76,6 +76,10 @@
     margin-top: 50px;
 }
 
+.person_text_info {
+    position: relative;
+}
+
 .person__title {
     color: #000;
     font-size: 56px;
@@ -89,7 +93,7 @@
     font-size: 16px;
     font-weight: 400;
     max-width: 340px;
-    margin: 0 30px;
+    margin: 15px 30px;
 }
 
 .person_company {
@@ -114,7 +118,7 @@
 .person_line {
     position: absolute;
     width: 2px;
-    height: 178px;
+    height: 100%;
     stroke-width: 2px;
     background: #000;
 }
