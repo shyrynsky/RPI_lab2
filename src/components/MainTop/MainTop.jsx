@@ -23,6 +23,7 @@ export function MainTop() {
                             duration={500}
                             smooth={true}
                             className="top_scroll_Anchor"
+                            onClick={() => { }}
                         >
                             <div className="top_button_circle">
                                 <p className="top_button_text">{t("top-button")}</p>

@@ -7,5 +7,17 @@
     "person-of-the-day-paragraph": "По мнению аудитории портала Person.by ",
     "top-title": "На кого смотрит весь мир?",
     "top-paragraph": "Создатели самых известных международных корпораций",
-    "top-button": "Вниз"
+    "top-button": "Вниз",
+    "person-button": "К странице",
+    "persons": [
+        {
+            "id": 1,
+            "name": "Джефф",
+            "surname": "Безос",
+            "photo": "/img/jeff_bezos.png",
+            "description": "Основатель интернет-компании",
+            "company": "Amazon.com",
+            "compLogo": "/img/AmazonLogo.svg"
+        }
+    ]
 }
