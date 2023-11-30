@@ -30,10 +30,16 @@ export function Header({ isRuLang, setRuLang }) {
                         }}
                     />
                     <div className="links_elem">
-                        <Link to={"/RPI_lab2"} className="header_link">
+                        <Link to={"/RPI_lab2"} className="header_link"
+                            onClick={() => {
+                                window.scrollTo(0, 0);
+                            }}>
                             {t("header-link-main")}
                         </Link>
-                        <Link to={"/RPI_lab2/persons"} className="header_link">
+                        <Link to={"/RPI_lab2/persons"} className="header_link"
+                            onClick={() => {
+                                window.scrollTo(0, 0);
+                            }}>
                             {t("header-link-persons")}
                         </Link>
                     </div>

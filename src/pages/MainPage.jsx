@@ -2,6 +2,7 @@ import { MainContent } from "../components/MainContent/MainContent.jsx";
 import { PersonOfTheDay } from "../components/PersonOfTheDay/PersonOfTheDay.jsx";
 import { MainTop } from "../components/MainTop/MainTop.jsx";
 import { Header } from "../components/Header/Header.jsx";
+import { Footer } from "../components/Footer/Footer.jsx";
 
 export function MainPage({ isRuLang, setRuLang }) {
 
@@ -11,6 +12,7 @@ export function MainPage({ isRuLang, setRuLang }) {
             <MainTop />
             <MainContent />
             <PersonOfTheDay />
+            <Footer />
         </>
     );
 }

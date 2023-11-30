@@ -14,6 +14,9 @@
     "person-button": "К странице",
     "header-link-main": "Главная",
     "header-link-persons": "Деятели",
+    "footer-quick-links": "Быстрые ссылки:",
+    "footer-contacts": "Контакты:",
+    "footer-paragraph": "Интернет-портал Person.by A1: +375 (29) 000 00 00",
     "persons": [
         {
             "id": 1,
