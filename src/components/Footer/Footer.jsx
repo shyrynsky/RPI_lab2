@@ -10,7 +10,7 @@ export function Footer() {
     const { t } = useTranslation("ns1");
     const navigate = useNavigate();
     return (
-        <header className="footer">
+        <footer className="footer">
             <div className="container">
                 <nav className="footer_content">
 
@@ -49,6 +49,6 @@ export function Footer() {
                     </div>
                 </nav>
             </div>
-        </header>
+        </footer>
     );
 }

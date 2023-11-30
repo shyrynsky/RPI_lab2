@@ -19,7 +19,7 @@ export function MainTop() {
                         <div className="top_y_circle"></div>
                         <div className="top_w_circle"></div>
                         <Anchor
-                            to="person_of_the_day_section"
+                            to="footer"
                             duration={500}
                             smooth={true}
                             className="top_scroll_Anchor"

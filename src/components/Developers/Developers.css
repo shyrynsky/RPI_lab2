@@ -1,0 +1,19 @@
+.developers_section {
+    padding: 100px 0;
+}
+
+.developers_title {
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0 0 15px;
+    color: #000;
+}
+
+.developers_paragraph {
+    font-size: 16px;
+    font-weight: 400;
+    color: #5A5A5A;
+    max-width: 250px;
+    margin: 0;
+}
