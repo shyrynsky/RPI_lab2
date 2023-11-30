@@ -12,6 +12,8 @@
     "search-paragraph": "Подборка основателей, создателей, руководителей известнейших мировых брендов",
     "search-placeholder": "Поиск",
     "person-button": "К странице",
+    "header-link-main": "Главная",
+    "header-link-persons": "Деятели",
     "persons": [
         {
             "id": 1,

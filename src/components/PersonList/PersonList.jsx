@@ -62,15 +62,3 @@ export function PersonList() {
         </section>
     );
 }
-/* {persons.map((data) => (
-    
-    <Person
-        key={data.id}
-        name={data.name}
-        surname={data.surname}
-        photo={data.photo}
-        description={data.description}
-        company={data.company}
-        compLogo={data.compLogo}
-    />
-))} */
