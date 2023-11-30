@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RPI_lab2/static/css/main.325d2803.css",
-    "main.js": "/RPI_lab2/static/js/main.f9020f9e.js",
+    "main.css": "/RPI_lab2/static/css/main.1397619d.css",
+    "main.js": "/RPI_lab2/static/js/main.0c7ebdb9.js",
     "static/media/Man.png": "/RPI_lab2/static/media/Man.03fb6b965dfc3fe77fe2.png",
     "static/media/Logo.svg": "/RPI_lab2/static/media/Logo.3f81111e2525acb57f6e5837f7fdff0f.svg",
     "static/media/search_icon.svg": "/RPI_lab2/static/media/search_icon.4df62b7e5618e4476fa9539b5c9d632b.svg",
@@ -11,11 +11,11 @@
     "static/media/Instagram_Icon.svg": "/RPI_lab2/static/media/Instagram_Icon.8f8feaad5800b395debf758cd3647835.svg",
     "static/media/Instagram_Icon_w.svg": "/RPI_lab2/static/media/Instagram_Icon_w.c68e9b4e804b3e0a1550e5332b7b5f4b.svg",
     "static/media/Arrow.svg": "/RPI_lab2/static/media/Arrow.aafbf2dbacccefee3c7ca9a17e098464.svg",
-    "main.325d2803.css.map": "/RPI_lab2/static/css/main.325d2803.css.map",
-    "main.f9020f9e.js.map": "/RPI_lab2/static/js/main.f9020f9e.js.map"
+    "main.1397619d.css.map": "/RPI_lab2/static/css/main.1397619d.css.map",
+    "main.0c7ebdb9.js.map": "/RPI_lab2/static/js/main.0c7ebdb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.325d2803.css",
-    "static/js/main.f9020f9e.js"
+    "static/css/main.1397619d.css",
+    "static/js/main.0c7ebdb9.js"
   ]
 }
