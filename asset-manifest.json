@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RPI_lab2/static/css/main.c6646962.css",
+    "main.css": "/RPI_lab2/static/css/main.622ef30f.css",
     "main.js": "/RPI_lab2/static/js/main.4e1de53b.js",
     "static/media/Man.png": "/RPI_lab2/static/media/Man.03fb6b965dfc3fe77fe2.png",
     "static/media/Logo.svg": "/RPI_lab2/static/media/Logo.3f81111e2525acb57f6e5837f7fdff0f.svg",
@@ -11,11 +11,11 @@
     "static/media/Instagram_Icon.svg": "/RPI_lab2/static/media/Instagram_Icon.8f8feaad5800b395debf758cd3647835.svg",
     "static/media/Instagram_Icon_w.svg": "/RPI_lab2/static/media/Instagram_Icon_w.c68e9b4e804b3e0a1550e5332b7b5f4b.svg",
     "static/media/Arrow.svg": "/RPI_lab2/static/media/Arrow.aafbf2dbacccefee3c7ca9a17e098464.svg",
-    "main.c6646962.css.map": "/RPI_lab2/static/css/main.c6646962.css.map",
+    "main.622ef30f.css.map": "/RPI_lab2/static/css/main.622ef30f.css.map",
     "main.4e1de53b.js.map": "/RPI_lab2/static/js/main.4e1de53b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6646962.css",
+    "static/css/main.622ef30f.css",
     "static/js/main.4e1de53b.js"
   ]
 }
