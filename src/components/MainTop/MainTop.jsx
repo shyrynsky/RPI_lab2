@@ -6,6 +6,7 @@ import ArrowImage from '../../images/Arrow.svg';
 
 export function MainTop() {
     const { t } = useTranslation("ns1");
+    const handleClick = () => { };
     return (
         <section className="top_section">
             <div className="container">
@@ -21,9 +22,9 @@ export function MainTop() {
                         <Anchor
                             to="footer"
                             duration={500}
-                            smooth={true}
+                            smooth={false}
                             className="top_scroll_Anchor"
-                            onClick={() => { }}
+                            onClick={handleClick}
                         >
                             <div className="top_button_circle">
                                 <p className="top_button_text">{t("top-button")}</p>

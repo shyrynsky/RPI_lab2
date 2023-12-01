@@ -65,5 +65,35 @@
             "company": "Meta",
             "compLogo": "/img/MetaLogo.svg"
         }
+    ],
+    "developers": [
+        {
+            "id": 1,
+            "name": "Николай",
+            "surname": "Ширинский",
+            "photo": "/img/Mamort_Photo.png",
+            "github": "shyrynsky"
+        },
+        {
+            "id": 2,
+            "name": "Николай",
+            "surname": "Ширинский",
+            "photo": "/img/Mamort_Photo.png",
+            "github": "shyrynsky"
+        },
+        {
+            "id": 3,
+            "name": "Николай",
+            "surname": "Ширинский",
+            "photo": "/img/Mamort_Photo.png",
+            "github": "shyrynsky"
+        },
+        {
+            "id": 4,
+            "name": "Николай",
+            "surname": "Ширинский",
+            "photo": "/img/Mamort_Photo.png",
+            "github": "shyrynsky"
+        }
     ]
 }

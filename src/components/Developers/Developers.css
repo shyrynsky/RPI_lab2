@@ -1,5 +1,9 @@
 .developers_section {
-    padding: 100px 0;
+    padding: 100px 0 60px;
+}
+
+.developers_info {
+    margin-bottom: 50px;
 }
 
 .developers_title {
@@ -16,4 +20,59 @@
     color: #5A5A5A;
     max-width: 250px;
     margin: 0;
+}
+
+.developers_cards {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    justify-content: space-around;
+}
+
+.card_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.card_bg {
+    width: 295px;
+    height: 427px;
+    flex-shrink: 0;
+    border-radius: 22px;
+    background: #32303C;
+    margin-bottom: 40px;
+}
+
+.card_overlay {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.card__title {
+    color: #FFF;
+    text-align: justify;
+    font-size: 27px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+    margin-top: 261px;
+}
+
+.card_paragraph {
+    color: #FFF;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+.card_link {
+    color: #FFF;
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration-line: underline;
 }
