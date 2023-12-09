@@ -1,99 +1,179 @@
 {
-    "content-title": "Содержание",
-    "content-paragraph-1": "На данном интернет-портале собраны люди, компании которых если не стали именами нарицательными, то уж точно у всех на слуху. Эти люди создали Идеи, бренды, с которыми практически невозможно соревноваться на рынке.",
-    "content-paragraph-2": "Каков был их путь? С какими сложностями они столкнулись? Что мы знаем об их творениях сейчас? Об этом и подробнее на страницах основателей.",
-    "content-button": "Деятели",
-    "person-of-the-day-title": "Деятель дня",
-    "person-of-the-day-paragraph": "По мнению аудитории портала Person.by ",
-    "top-title": "На кого смотрит весь мир?",
-    "top-paragraph": "Создатели самых известных международных корпораций",
-    "top-button": "Вниз",
-    "search-title": "Деятели",
-    "search-paragraph": "Подборка основателей, создателей, руководителей известнейших мировых брендов",
-    "search-placeholder": "Поиск",
-    "person-button": "К странице",
-    "developers-title": "Наша команда",
-    "developers-paragraph": "Команда разработчиков и их учетные записи GitHub",
-    "header-link-main": "Главная",
-    "header-link-persons": "Деятели",
-    "footer-quick-links": "Быстрые ссылки:",
-    "footer-contacts": "Контакты:",
-    "footer-paragraph": "Интернет-портал Person.by A1: +375 (29) 000 00 00",
-    "persons": [
-        {
-            "id": 1,
-            "name": "Джефф",
-            "surname": "Безос",
-            "photo": "/img/jeff_bezos.png",
-            "description": "Основатель интернет-компании",
-            "company": "Amazon.com",
-            "compLogo": "/img/AmazonLogo.svg"
-        },
-        {
-            "id": 2,
-            "name": "Билл",
-            "surname": "Гейтс",
-            "photo": "/img/bill_gates.png",
-            "description": "Один из создателей и бывший крупнейший акционер компании",
-            "company": "Microsoft",
-            "compLogo": "/img/MicrosoftLogo.svg"
-        },
-        {
-            "id": 3,
-            "name": "Дженсен",
-            "surname": "Хуанг",
-            "photo": "/img/jensen_huang.png",
-            "description": "Президент и главный исполнительный директор компании",
-            "company": "NVIDIA",
-            "compLogo": "/img/NVIDIALogo.svg"
-        },
-        {
-            "id": 4,
-            "name": "Стив",
-            "surname": "Джобс",
-            "photo": "/img/steve_jobs.png",
-            "description": "Один из основателей, председатель совета директоров корпорации",
-            "company": "Apple",
-            "compLogo": "/img/AppleLogo.svg"
-        },
-        {
-            "id": 5,
-            "name": "Марк",
-            "surname": "Цукерберг",
-            "photo": "/img/mark_zuckerberg.png",
-            "description": "Один из основателей и генеральный директор компании",
-            "company": "Meta",
-            "compLogo": "/img/MetaLogo.svg"
-        }
-    ],
-    "developers": [
-        {
-            "id": 1,
-            "name": "Николай",
-            "surname": "Ширинский",
-            "photo": "/img/Mamort_Photo.png",
-            "github": "shyrynsky"
-        },
-        {
-            "id": 2,
-            "name": "Николай",
-            "surname": "Ширинский",
-            "photo": "/img/Mamort_Photo.png",
-            "github": "shyrynsky"
-        },
-        {
-            "id": 3,
-            "name": "Николай",
-            "surname": "Ширинский",
-            "photo": "/img/Mamort_Photo.png",
-            "github": "shyrynsky"
-        },
-        {
-            "id": 4,
-            "name": "Николай",
-            "surname": "Ширинский",
-            "photo": "/img/Mamort_Photo.png",
-            "github": "shyrynsky"
-        }
-    ]
+  "content-title": "Содержание",
+  "content-paragraph-1": "На данном интернет-портале собраны люди, компании которых если не стали именами нарицательными, то уж точно у всех на слуху. Эти люди создали Идеи, бренды, с которыми практически невозможно соревноваться на рынке.",
+  "content-paragraph-2": "Каков был их путь? С какими сложностями они столкнулись? Что мы знаем об их творениях сейчас? Об этом и подробнее на страницах основателей.",
+  "content-button": "Деятели",
+  "person-of-the-day-title": "Деятель дня",
+  "person-of-the-day-paragraph": "По мнению аудитории портала Person.by ",
+  "top-title": "На кого смотрит весь мир?",
+  "top-paragraph": "Создатели самых известных международных корпораций",
+  "top-button": "Вниз",
+  "search-title": "Деятели",
+  "search-paragraph": "Подборка основателей, создателей, руководителей известнейших мировых брендов",
+  "search-placeholder": "Поиск",
+  "person-button": "К странице",
+  "developers-title": "Наша команда",
+  "developers-paragraph": "Команда разработчиков и их учетные записи GitHub",
+  "header-link-main": "Главная",
+  "header-link-persons": "Деятели",
+  "footer-quick-links": "Быстрые ссылки:",
+  "footer-contacts": "Контакты:",
+  "footer-paragraph": "Интернет-портал Person.by A1: +375 (29) 000 00 00",
+  "persons": [
+    {
+      "id": 1,
+      "name": "Джефф",
+      "surname": "Безос",
+      "photo": "/img/jeff_bezos/jeff_bezos.png",
+      "photo_alt": "/img/jeff_bezos/jeff_bezos_alt.png",
+      "description": "Основатель интернет-компании",
+      "company": "Amazon.com",
+      "compLogo": "/img/jeff_bezos/AmazonLogo.svg",
+      "birthdate": "Год рождения: 1964 г. (59 лет),",
+      "birthplace": "Альбукерке, Нью-Мексико, США",
+      "slider_images": [
+        "/img/jeff_bezos/slidable_1.png",
+        "/img/jeff_bezos/slidable_2.png",
+        "/img/jeff_bezos/slidable_3.png",
+        "/img/jeff_bezos/slidable_4.png",
+        "/img/jeff_bezos/slidable_5.png"
+      ],
+      "youtube_embed_url": "https://www.youtube.com/embed/7TWKKww-F30",
+      "youtube_ember_url_title": "&quot;I Got Rich When I Understood This&quot; | Jeff Bezos",
+      "motivation": "Джефф Безос делится некоторыми из своих бизнес-советов, которые помогут раскрыть секреты успеха",
+      "office_name": "Amazon Spheres",
+      "office_location": "Три сферические оранжереи, входящие в состав кампуса штаб-квартиры Amazon в Сиэтле, Вашингтон, США.",
+      "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.553933335146!2d-122.3413022381704!3d47.615362664263216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490154bca117fb1%3A0x7f39ceca621d130c!2sThe%20Spheres!5e0!3m2!1sru!2slt!4v1701368502143!5m2!1sru!2slt"
+    },
+    {
+      "id": 2,
+      "name": "Билл",
+      "surname": "Гейтс",
+      "photo": "/img/bill_gates/bill_gates.png",
+      "photo_alt": "/img/bill_gates/bill_gates_alt.png",
+      "description": "Один из создателей и бывший крупнейший акционер компании",
+      "company": "Microsoft",
+      "compLogo": "/img/bill_gates/MicrosoftLogo.svg",
+      "birthdate": "Год рождения: 1955 г. (68 лет),",
+      "birthplace": "Сиэтл, Вашингтон, США",
+      "slider_images": [
+        "/img/bill_gates/slidable_1.jpg",
+        "/img/bill_gates/slidable_2.png",
+        "/img/bill_gates/slidable_3.png",
+        "/img/bill_gates/slidable_4.png",
+        "/img/bill_gates/slidable_5.png"
+      ],
+      "youtube_embed_url": "https://www.youtube.com/embed/c7gcaq-9y-4",
+      "youtube_ember_url_title": "7 Rules For Success | 7 Best Lessons From Bill Gates | Bill Gates Motivational Speech | Simplilearn",
+      "motivation": "«Успех — плохой учитель»: Билл Гейтс рассуждает об успехе человека и уроках жизни",
+      "office_name": "Microsoft Campus",
+      "office_location": "Штаб-квартира корпорации Microsoft, расположенная в Редмонде, штат Вашингтон, США, в агломерации Сиэтла",
+      "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1344.0521470650315!2d-122.13298640160522!3d47.64354009999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906d71b804151b%3A0x1a52969ee03899e!2sMicrosoft%20Headquarters%201!5e0!3m2!1sru!2slt!4v1701375631238!5m2!1sru!2slt"
+    },
+    {
+      "id": 3,
+      "name": "Дженсен",
+      "surname": "Хуанг",
+      "photo": "/img/jensen_huang/jensen_huang.png",
+      "photo_alt": "/img/jensen_huang/jensen_huang_alt.png",
+      "description": "Президент и главный исполнительный директор компании",
+      "company": "NVIDIA",
+      "compLogo": "/img/jensen_huang/NVIDIALogo.svg",
+      "birthdate": "Год рождения: 1963 г. (60 лет),",
+      "birthplace": "Тайнань, Тайвань",
+      "slider_images": [
+        "/img/jensen_huang/slidable_1.png",
+        "/img/jensen_huang/slidable_2.png",
+        "/img/jensen_huang/slidable_3.png",
+        "/img/jensen_huang/slidable_4.png",
+        "/img/jensen_huang/slidable_5.png"
+      ],
+      "youtube_embed_url": "https://www.youtube.com/embed/iL_0HblXMho",
+      "youtube_ember_url_title": "Jensen Huang&#39;s Advice Will Leave You Speechless (MUST WATC",
+      "motivation": "«Взрастить терпимость к неудачам»: Дженсена Хуанг рассказывает, как добится своего, несмотря на множество проблем",
+      "office_name": "NVIDIA Voyager",
+      "office_location": "Одно из зданий оргомного комплекса штаб-квартир NVIDIA в Санта-Кларе, Калифорния, США",
+      "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6341.427944410356!2d-121.96883703599855!3d37.372944287048476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcb4e51a72a79%3A0xf34274eee76e8783!2sNVIDIA%20Voyager!5e0!3m2!1sru!2slt!4v1701453409446!5m2!1sru!2slt"
+    },
+    {
+      "id": 4,
+      "name": "Стив",
+      "surname": "Джобс",
+      "photo": "/img/steve_jobs/steve_jobs.png",
+      "photo_alt": "/img/steve_jobs/steve_jobs_alt.png",
+      "description": "Один из основателей, председатель совета директоров корпорации",
+      "company": "Apple",
+      "compLogo": "/img/steve_jobs/AppleLogo.svg",
+      "birthdate": "Годы жизни: 1955 - 2011 гг.,",
+      "birthplace": "Сан-Франциско, Калифорния, США",
+      "slider_images": [
+        "/img/steve_jobs/slidable_1.png",
+        "/img/steve_jobs/slidable_2.png",
+        "/img/steve_jobs/slidable_3.png",
+        "/img/steve_jobs/slidable_4.png",
+        "/img/steve_jobs/slidable_5.png"
+      ],
+      "youtube_embed_url": "https://www.youtube.com/embed/UF8uR6Z6KLc",
+      "youtube_ember_url_title": "Steve Jobs&#39; 2005 Stanford Commencement Address",
+      "motivation": "Легендарная речь Стива Джобса для студентов\nСтенфордского Университета",
+      "office_name": "Apple Park",
+      "office_location": "Комплекс строений в стиле нео-футуризм, действующий офис Apple в Купертино, Калифорния, США",
+      "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.3152710584654!2d-122.01017565684103!3d37.33504414095637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb596e9e188fd%3A0x3b0d8391510688f0!2z0K3Qv9C7INCf0LDRgNC6!5e0!3m2!1sru!2slt!4v1701454794351!5m2!1sru!2slt"
+    },
+    {
+      "id": 5,
+      "name": "Марк",
+      "surname": "Цукерберг",
+      "photo": "/img/mark_zuckerberg/mark_zuckerberg.png",
+      "photo_alt": "/img/mark_zuckerberg/mark_zuckerberg_alt.png",
+      "description": "Один из основателей и генеральный директор компании",
+      "company": "Meta",
+      "compLogo": "/img/mark_zuckerberg/MetaLogo.svg",
+      "birthdate": "Годы жизни: 1955 - 2011 гг.,",
+      "birthplace": "Сан-Франциско, Калифорния, США ",
+      "slider_images": [
+        "/img/mark_zuckerberg/slidable_1.png",
+        "/img/mark_zuckerberg/slidable_2.png",
+        "/img/mark_zuckerberg/slidable_3.png",
+        "/img/mark_zuckerberg/slidable_4.png",
+        "/img/mark_zuckerberg/slidable_5.png"
+      ],
+      "youtube_embed_url": "https://www.youtube.com/embed/BOoHAOZPJf4",
+      "youtube_ember_url_title": "Find Your Purpose - Mark Zuckerberg Inspirational Speech | Simplilearn",
+      "motivation": "В своем интервью Марк Цукерберг делится советом, как найти свою цель и преодолеть возможные ошибки ",
+      "office_name": "Meta Headquaters",
+      "office_location": "Штаб-квартира Meta находится в Менло-Парке – городе на берегу залива Сан-Франциско, Калифорния, США",
+      "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.968181185453!2d-122.15085732466412!3d37.48507722879573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbc96de8dc419%3A0x64979e438bf4e3a5!2z0JzQtdGC0LAg0KXQtdC00LrQstC-0YLQtdGA0YE!5e0!3m2!1sru!2slt!4v1701459974924!5m2!1sru!2slt"
+    }
+  ],
+  "developers": [
+    {
+      "id": 1,
+      "name": "Николай",
+      "surname": "Ширинский",
+      "photo": "/img/Mamort_Photo.png",
+      "github": "shyrynsky"
+    },
+    {
+      "id": 2,
+      "name": "Николай",
+      "surname": "Ширинский",
+      "photo": "/img/Mamort_Photo.png",
+      "github": "shyrynsky"
+    },
+    {
+      "id": 3,
+      "name": "Николай",
+      "surname": "Ширинский",
+      "photo": "/img/Mamort_Photo.png",
+      "github": "shyrynsky"
+    },
+    {
+      "id": 4,
+      "name": "Николай",
+      "surname": "Ширинский",
+      "photo": "/img/Mamort_Photo.png",
+      "github": "shyrynsky"
+    }
+  ]
 }

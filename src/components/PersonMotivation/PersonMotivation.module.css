@@ -1,0 +1,48 @@
+.motivation_section {
+    position: relative;
+    overflow: hidden;
+}
+
+.motivation_container {
+    width: 1440px;
+    height: 817px;
+    background: white;
+    padding: 126px 100px 71px;
+}
+
+.textblock {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.motivation__title {
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.motivation__paragraph {
+    color: #5A5A5A;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 560px;
+}
+
+.video {
+    position: relative;
+    width: 800px;
+    height: 450px;
+    translate: 25%;
+    margin-top: 60px;
+}

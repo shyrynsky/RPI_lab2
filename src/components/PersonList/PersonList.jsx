@@ -39,6 +39,7 @@ export function PersonList() {
         rows.push(
             <Person
                 key={data.id}
+                id={data.id}
                 name={data.name}
                 surname={data.surname}
                 photo={data.photo}

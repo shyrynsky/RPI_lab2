@@ -15,6 +15,7 @@ export function PersonOfTheDay() {
                     <p className="person_of_the_day_paragraph">{t("person-of-the-day-paragraph")}</p>
                 </div>
                 <Person
+                    id={data.id}
                     name={data.name}
                     surname={data.surname}
                     photo={data.photo}
