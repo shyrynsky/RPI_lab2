@@ -10,11 +10,13 @@ export function PersonMap({person}) {
                         <div className={style.textblock__paragraph}>{person.office_location}</div>
                     </div>
 
-                    <iframe
-                        className={style.office_map}
-                        src={person.office_map_url}
-                        allowFullScreen="" loading="lazy">
-                    </iframe>
+                    <div className={style.office_map_container}>
+                        <iframe
+                            className={style.office_map}
+                            src={person.office_map_url}
+                            allowFullScreen="" loading="lazy">
+                        </iframe>
+                    </div>
                 </div>
             </div>
         </section>

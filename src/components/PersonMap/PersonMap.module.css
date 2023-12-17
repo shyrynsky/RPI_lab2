@@ -4,10 +4,11 @@
 }
 
 .map_container {
-    width: 1440px;
-    height: 770px;
+    max-width: 1440px;
+    max-height: 770px;
     background: white;
-    padding: 55px 100px 95px;
+    /*padding: 55px 100px 95px;*/
+    padding: 4% 7% 7%;
 }
 
 .textblock {
@@ -39,10 +40,17 @@
     width: 100%;
 }
 
+.office_map_container {
+    display: flex;
+    justify-content: center;
+}
+
 .office_map {
     position: relative;
-    width: 800px;
-    height: 450px;
-    translate: 25%;
+    max-width: 800px;
+    width: 100%;
+    max-height: 450px;
+    height: 100%;
     margin-top: 60px;
+    aspect-ratio: 800 / 450;
 }

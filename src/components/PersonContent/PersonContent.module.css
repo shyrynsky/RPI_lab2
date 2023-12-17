@@ -1,19 +1,19 @@
 .content_section {
-    flex-shrink: 0;
     z-index: 0;
     overflow: hidden;
     position: relative;
 }
 
 .content_container {
-    width: 1440px;
-    height: 653px;
+    /*width: 1440px;*/
+    /*height: 653px;*/
     background: #32303C;
 }
 
-.splay_container {
-    margin-top: 80px;
+.wave_container {
     position: absolute;
+    width: 100%;
+    height: 100%;
 }
 
 .slider {
@@ -25,6 +25,8 @@
 }
 
 .arrow_button {
+    margin-left: 10px;
+    margin-right: 10px;
     cursor: pointer;
     transition: background-color 100ms ease-in-out;
 }
@@ -34,8 +36,10 @@
 }
 
 .slider_image_container {
-    width: 745px;
-    height: 450px;
+    max-width: 745px;
+    width: 100%;
+    max-height: 450px;
+    height: 100%;
     margin: 100px 0;
 }
 

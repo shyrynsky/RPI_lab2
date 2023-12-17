@@ -10,13 +10,15 @@ export function PersonMotivation({person}) {
                         <div className={style.motivation__paragraph}>{person.motivation}</div>
                     </div>
 
-                    <iframe
-                        className={style.video}
-                        src={person.youtube_embed_url}
-                        title={person.youtube_embed_url_title}
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowFullScreen>
-                    </iframe>
+                    <div className={style.video_container}>
+                        <iframe
+                            className={style.video}
+                            src={person.youtube_embed_url}
+                            title={person.youtube_embed_url_title}
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowFullScreen>
+                        </iframe>
+                    </div>
                 </div>
             </div>
         </section>

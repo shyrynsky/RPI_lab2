@@ -4,10 +4,12 @@
 }
 
 .motivation_container {
-    width: 1440px;
-    height: 817px;
+    max-width: 1440px;
+    width: 100%;
+    max-height: 817px;
+    height: 100%;
     background: white;
-    padding: 126px 100px 71px;
+    padding: 10% 8% 5%;
 }
 
 .textblock {
@@ -39,10 +41,17 @@
     max-width: 560px;
 }
 
+.video_container {
+    justify-content: center;
+    display: flex;
+}
+
 .video {
     position: relative;
-    width: 800px;
-    height: 450px;
-    translate: 25%;
+    max-width: 800px;
+    width: 100%;
+    max-height: 450px;
+    height: 100%;
     margin-top: 60px;
+    aspect-ratio: 800 / 450;
 }
