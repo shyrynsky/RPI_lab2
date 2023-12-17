@@ -1,0 +1,56 @@
+.map_section {
+    position: relative;
+    overflow: hidden;
+}
+
+.map_container {
+    max-width: 1440px;
+    max-height: 770px;
+    background: white;
+    /*padding: 55px 100px 95px;*/
+    padding: 4% 7% 7%;
+}
+
+.textblock {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 15px;
+}
+
+.textblock__title {
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.textblock__paragraph {
+    color: #5A5A5A;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 560px;
+    width: 100%;
+}
+
+.office_map_container {
+    display: flex;
+    justify-content: center;
+}
+
+.office_map {
+    position: relative;
+    max-width: 800px;
+    width: 100%;
+    max-height: 450px;
+    height: 100%;
+    margin-top: 60px;
+    aspect-ratio: 800 / 450;
+}
