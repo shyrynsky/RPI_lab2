@@ -191,29 +191,29 @@
       "id": 1,
       "name": "Николай",
       "surname": "Ширинский",
-      "photo": "/img/Mamort_Photo.png",
+      "photo": "/img/kolya.png",
       "github": "shyrynsky"
     },
     {
       "id": 2,
-      "name": "Николай",
-      "surname": "Ширинский",
-      "photo": "/img/Mamort_Photo.png",
-      "github": "shyrynsky"
+      "name": "Ксения",
+      "surname": "Хомельянская",
+      "photo": "/img/miami_beachh.png",
+      "github": "homyachim"
     },
     {
       "id": 3,
-      "name": "Николай",
-      "surname": "Ширинский",
-      "photo": "/img/Mamort_Photo.png",
-      "github": "shyrynsky"
+      "name": "Даниил",
+      "surname": "Кульчинский",
+      "photo": "/img/danik.png",
+      "github": "amy1181996"
     },
     {
       "id": 4,
-      "name": "Николай",
-      "surname": "Ширинский",
+      "name": "Анастасия",
+      "surname": "Рачинская",
       "photo": "/img/Mamort_Photo.png",
-      "github": "shyrynsky"
+      "github": "NickieDrake"
     }
   ]
 }

@@ -1,6 +1,219 @@
 {
-    "content-title": "привет",
-    "content-paragraph-1": "привет",
-    "content-paragraph-2": "привет",
-    "content-button": "Деятели"
-}
+    "content-title": "Content",
+    "content-paragraph-1": "This Internet portal contains people whose companies, if they have not become household names, then certainly everyone knows. These people have created Ideas, brands that are almost impossible to compete with in the market.",
+    "content-paragraph-2": "What was their path? What difficulties did they face? What do we know about their creations now? About this and more on the pages of the founders.",
+    "content-button": "Figures",
+    "person-of-the-day-title": "Figure of the day",
+    "person-of-the-day-paragraph": "According to Person.by audience ",
+    "top-title": "Who is the whole world looking at?",
+    "top-paragraph": "The creators of the most famous international corporations",
+    "top-button": "Further",
+    "search-title": "Figures",
+    "search-paragraph": "A selection of the founders, creators, and leaders of the world's most famous brands",
+    "search-placeholder": "Search",
+    "person-button": "To the page",
+    "developers-title": "Our team",
+    "developers-paragraph": "The development team and their GitHub accounts",
+    "header-link-main": "Home",
+    "header-link-persons": "Figures",
+    "footer-quick-links": "Sitelinks:",
+    "footer-contacts": "Contacts:",
+    "footer-paragraph": "Web portal Person.by A1: +375 (29) 000 00 00",
+    "timeline": "History",
+    "persons": [
+      {
+        "id": 1,
+        "name": "Jeff",
+        "surname": "Bezos",
+        "photo": "/img/jeff_bezos/jeff_bezos.png",
+        "photo_alt": "/img/jeff_bezos/jeff_bezos_alt.png",
+        "description": "Founder of online company",
+        "company": "Amazon.com",
+        "compLogo": "/img/jeff_bezos/AmazonLogo.svg",
+        "birthdate": "Birth year: 1964 г. (59 years),",
+        "birthplace": " Albuquerque, New Mexico, USA",
+        "slider_images": [
+          "/img/jeff_bezos/slidable_1.png",
+          "/img/jeff_bezos/slidable_2.png",
+          "/img/jeff_bezos/slidable_3.png",
+          "/img/jeff_bezos/slidable_4.png",
+          "/img/jeff_bezos/slidable_5.png"
+        ],
+        "youtube_embed_url": "https://www.youtube.com/embed/7TWKKww-F30",
+        "youtube_ember_url_title": "&quot;I Got Rich When I Understood This&quot; | Jeff Bezos",
+        "motivation": "Jeff Bezos shares some of his business tips to help unlock the secrets of success",
+        "office_name": "Amazon Spheres",
+        "office_location": "Three spherical greenhouses that are part of the Amazon headquarters campus in Seattle, Washington, USA.",
+        "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2689.553933335146!2d-122.3413022381704!3d47.615362664263216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490154bca117fb1%3A0x7f39ceca621d130c!2sThe%20Spheres!5e0!3m2!1sru!2slt!4v1701368502143!5m2!1sru!2slt",
+        "timeline_data": {
+          "Childhood": "Jeffrey Preston Jorgensen was born on January 12, 1964 in Albuquerque (New Mexico), his parents are Jacqueline (nee Guise) and Theodore Jorgensen (father has Danish roots). At his birth, his mother was 17 years old, his father was 19. A few years later, Jeffrey Preston's parents divorced.",
+          "Education": "Jeff graduated magna cum laude from Princeton University in 1986 with degrees in electrical engineering and computer science[15]. Prior to the beginning of 1994, he worked in various positions on Wall Street. He was engaged in the development of a network for international trade. He later took up the position of Vice President at D. E. Shaw & Co.",
+          "Personal life": "While working at D. E. Shaw & Co, Bezos asked friends to provide him with a stream of candidates (women flow, similar to deal flow in investments) for dating in order to find a suitable candidate for a relationship. Such a search was unsuccessful, but then he fell in love with Mackenzie Tuttle.In 1994, the couple left a prestigious job in New York and moved to Seattle to found Amazon.com . In 1999, Mackenzie became pregnant for the first time. The couple became parents of three sons and adopted a girl from China",
+          "Company": "At the end of 1994, during a cross-country trip from New York to Seattle, Bezos founded an online store Amazon.com , the initial investment in which amounted to 300 thousand dollars. The site was launched on July 16, 1995, although at that time it was not completely finished: for example, it was possible to order a negative number of books on it. The company began as an online bookstore and expanded to sell a wide range of products and services, including video and audio broadcasts. In 1997, the company went public. In 1999, the American Time magazine named Bezos the person of the year.",
+          "Income and wealth": "On July 16, 2018, Bezos topped the list of the richest people in the world, according to Bloomberg, with a fortune of $150 billion.",
+          "Divorce": "In September 2018, they celebrated 25 years of marriage in Miami without a wasp, and on January 9, 2019, they announced their divorce, posting a tweet about it and promising to remain friends.",
+          "Resigning from office": "On July 5, 2021, Jeff Bezos left the position of head of Amazon"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Bill",
+        "surname": "Gates",
+        "photo": "/img/bill_gates/bill_gates.png",
+        "photo_alt": "/img/bill_gates/bill_gates_alt.png",
+        "description": "One of the founders and former largest shareholder",
+        "company": "Microsoft",
+        "compLogo": "/img/bill_gates/MicrosoftLogo.svg",
+        "birthdate": "Birth year: 1955 г. (68 years),",
+        "birthplace": "Seattle, Washington, USA",
+        "slider_images": [
+          "/img/bill_gates/slidable_1.jpg",
+          "/img/bill_gates/slidable_2.png",
+          "/img/bill_gates/slidable_3.png",
+          "/img/bill_gates/slidable_4.png",
+          "/img/bill_gates/slidable_5.png"
+        ],
+        "youtube_embed_url": "https://www.youtube.com/embed/c7gcaq-9y-4",
+        "youtube_ember_url_title": "7 Rules For Success | 7 Best Lessons From Bill Gates | Bill Gates Motivational Speech | Simplilearn",
+        "motivation": "«Success is a bad teacher»: Bill Gates talks about human success and life lessons",
+        "office_name": "Microsoft Campus",
+        "office_location": "The headquarters of Microsoft Corporation, located in Redmond, Washington, USA, in the Seattle metropolitan area",
+        "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1344.0521470650315!2d-122.13298640160522!3d47.64354009999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906d71b804151b%3A0x1a52969ee03899e!2sMicrosoft%20Headquarters%201!5e0!3m2!1sru!2slt!4v1701375631238!5m2!1sru!2slt",
+        "timeline_data": {
+          "Childhood": "Gates was born in Seattle, Washington, the son of William Henry Gates II, a corporate lawyer, and Mary Maxwell Gates, a member of the board of directors of First Interstate Bank, Pacific Northwest Bell and the National Council of USWest, United Way. Gates has 2 sisters: The eldest is Christie and the youngest is Libby.",
+          "Education": "Gates studied at Seattle's most privileged Lakeside school, where he was able to develop his programming skills on the school's mini-computer. At the age of thirteen, Bill wrote his first Tic—Tac-Toe game program in the BASIC programming language. In the eighth grade, in programming classes, he met tenth grader Paul Allen. Gates and his friends tested the PDP-10 computer of Digital Equipment Corporation.",
+          "Company": "In 1973, Bill Gates enrolled at Harvard University, where he met his future companion Steve Ballmer. 2 years later, Gates was expelled and immediately began to create software. Subsequently, on June 7, 2007, Bill Gates will be considered a Harvard graduate — the university administration will decide to award him a diploma.Gates contacted the president of Micro Instrumentation and Telemetry Systems (MITS) and informed him that he and his friend were working on their computer software (although Gates and Allen actually had nothing to do with it). The president of MITS invited Paul to his office and a few weeks later Paul and Bill were already working at MITS. They thought to name their company Allen & Gates, but they thought it was more suitable for a law firm, and then Paul suggested Micro—Soft, from microprocessors and software.",
+          "Personal life": "On January 1, 1994, Gates married Melinda French (Bill first met Melinda in 1987, at a Microsoft press briefing in New York, she had been working for his company for a long time). They have three children — Jennifer Katharine (born in 1996), Rory John (born in 1999) and Phoebe Adele (born in 2002). On May 3, 2021, Melinda and Bill Gates announced their decision to divorce. On August 2, 2021, an official divorce took place after 27 years of marriage.",
+          "Last days in company": "June 27, 2008 was the last for Bill Gates as head of Microsoft. Despite this, it was stated that he would not break with the company permanently — Gates would remain chairman of the Board of Directors."
+        }
+      },
+      {
+        "id": 3,
+        "name": "Jensen",
+        "surname": "Huang",
+        "photo": "/img/jensen_huang/jensen_huang.png",
+        "photo_alt": "/img/jensen_huang/jensen_huang_alt.png",
+        "description": "President and CEO",
+        "company": "NVIDIA",
+        "compLogo": "/img/jensen_huang/NVIDIALogo.svg",
+        "birthdate": "Birth year: 1963 г. (60 years),",
+        "birthplace": "Tainan, Taiwan",
+        "slider_images": [
+          "/img/jensen_huang/slidable_1.png",
+          "/img/jensen_huang/slidable_2.png",
+          "/img/jensen_huang/slidable_3.png",
+          "/img/jensen_huang/slidable_4.png",
+          "/img/jensen_huang/slidable_5.png"
+        ],
+        "youtube_embed_url": "https://www.youtube.com/embed/iL_0HblXMho",
+        "youtube_ember_url_title": "Jensen Huang&#39;s Advice Will Leave You Speechless (MUST WATC",
+        "motivation": "«Cultivate tolerance for failure»: Jensen Huang tells you how to get your way despite a lot of problems",
+        "office_name": "NVIDIA Voyager",
+        "office_location": "One of the buildings of the huge NVIDIA headquarters complex in Santa Clara, California, USA",
+        "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6341.427944410356!2d-121.96883703599855!3d37.372944287048476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fcb4e51a72a79%3A0xf34274eee76e8783!2sNVIDIA%20Voyager!5e0!3m2!1sru!2slt!4v1701453409446!5m2!1sru!2slt",
+        "timeline_data": {
+          "Childhood": "Huang Renxun was born on February 17, 1963 in Taiwan, Republic of China. When Renxun was 6 years old, his family moved to Bangkok (Thailand). In the late 1960s, after a trip to New York as part of a professional development program, his father decided to send his children to the United States. In 1972, 9-year-old Renxun and his 10-year-old older brother moved to live with their uncle and aunt in Tacoma, Washington. There, Renxun began to write his name as Jensen.",
+          "Education": "Relatives sent the brothers to Oneida Baptist Boarding School in eastern Kentucky,[5][6] and later the Huang family reunited in Oregon, where Jensen graduated from Aloha High School located in Beaverton.In high school, Jensen became interested in computer technology and continued his studies at the University of Oregon, where he studied computer science and integrated circuit design. After receiving a bachelor's degree in electrical Engineering in 1984, Jensen began his career at Advanced Micro Devices (AMD) as a chip designer[3]. He moved from AMD to LSI Logic Corporation.",
+          "Personal life": "Jensen met his future wife, Lori Mills, when he was appointed her ward at the Laboratory of Fundamentals of Electrical Engineering at the University of Oregon. The wedding took place 5 years later. The couple raised a son, Spencer, and a daughter, Madison.",
+          "Company": "In 1993, Jensen Huang, along with his friends Chris Malakhovsky and Curtis Priem, who worked as engineers at Sun Microsystems, founded their own company Nvidia with a start-up capital of 40 thousand dollars. Since April 1993, Jensen Huang has occupied the positions of president and chief Executive Officer in the newly formed company and joined the board of Directors[11]. The company focused on the graphics processing unit (GPU) market, attracted investments from Sequoia Capital and Sutter Hill Ventures, and entered the market with the NV1 multimedia card in 1995. The first product proved to be commercially unsuccessful, but NVIDIA continued to develop.",
+          "Income and wealth": "As of September 2020, Forbes estimated Jensen Huang's net worth at $11.6 billion. According to the magazine, he was ranked 361st in the 2020 billionaires ranking, 51st in the 2020 Forbes 400 list of the richest Americans, and 61st in the 2020 list of the richest representatives of the technology industry."
+        }
+      },
+      {
+        "id": 4,
+        "name": "Steve",
+        "surname": "Jobs",
+        "photo": "/img/steve_jobs/steve_jobs.png",
+        "photo_alt": "/img/steve_jobs/steve_jobs_alt.png",
+        "description": "One of the founders, Chairman of the Board of Directors",
+        "company": "Apple",
+        "compLogo": "/img/steve_jobs/AppleLogo.svg",
+        "birthdate": "Years of life: 1955 - 2011 y.,",
+        "birthplace": "San Francisco, California, USA",
+        "slider_images": [
+          "/img/steve_jobs/slidable_1.png",
+          "/img/steve_jobs/slidable_2.png",
+          "/img/steve_jobs/slidable_3.png",
+          "/img/steve_jobs/slidable_4.png",
+          "/img/steve_jobs/slidable_5.png"
+        ],
+        "youtube_embed_url": "https://www.youtube.com/embed/UF8uR6Z6KLc",
+        "youtube_ember_url_title": "Steve Jobs&#39; 2005 Stanford Commencement Address",
+        "motivation": "Steve Jobs's Legendary Speech for students at Stanford University",
+        "office_name": "Apple Park",
+        "office_location": "A complex of neo-futurist buildings, the current Apple office in Cupertino, California, USA",
+        "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3172.3152710584654!2d-122.01017565684103!3d37.33504414095637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb596e9e188fd%3A0x3b0d8391510688f0!2z0K3Qv9C7INCf0LDRgNC6!5e0!3m2!1sru!2slt!4v1701454794351!5m2!1sru!2slt",
+        "timeline_data": {
+          "Childhood": "He was born on February 24, 1955 in a family of unregistered married students: Syrian-born Abdul Fattah (John) Jandali and Joan Shible.Since Joan's relatives objected to their relationship, and her father, who was dying, threatened to disinherit her altogether, she had to give the child up for adoption.Malchik was adopted by Paul Jobs and an American of Armenian descent, Clara Jobs, nee Hagopian. The Jobs could not have their own children[10]. They named their adopted son Stephen Paul. Jobs always considered Paul and Clara to be father and mother, and he was very annoyed if someone called them foster parents.",
+          "Education": "Schoolwork disappointed Steve with its formalism. Teachers at Mona Loma Elementary School characterized him as a prankster. Soon Steve began to study hard, and at the end of the school year he brilliantly passed the exams. As a result, by the decision of his parents, Steve was enrolled in the sixth grade, that is, in high school. It was a school in Crittenden. A year later, Steve gave his parents an ultimatum to transfer to another school. The family had to use their last savings to buy a house in a more decent area, in south Los Altos. Jobs later attended high school and Homestead High School in Cupertino.",
+          "Carier": "Steve got a job on the assembly line at HP at the end of his first year at Homestead thanks to a personal invitation from Hullet. In addition to this job, which aroused the envy of his peers, Steve delivered newspapers, and the following year served in a warehouse at the Haltek electronics store. By the age of fifteen, Jobs already had his first car of his own. Jobs became friends with his classmate Bill Fernandez, who was also interested in electronics. Fernandez introduced Jobs to a computer-obsessed graduate, the real legend of the school, Stephen Wozniak.",
+          "Read College": "In the summer of 1972, after graduating from high school, Steve Jobs left his parents' house and, together with his girlfriend Chris-Ann Brennan, settled in a hut in the mountains above Los Altos, despite the objections of his parents. That same year, he enrolled at Reed College in Portland. At Reed, Jobs first became seriously interested in Eastern spiritual practices, especially Zen Buddhism. At the same time, he became a committed vegetarian and began experimenting with fasting.",
+          "The Homemade Computer Club": "On March 5, 1975, the first meeting of a group of enthusiasts who called themselves the Homebrew Computer Club took place. Steve Wozniak was present at the meeting. After the first meeting, he took up computer design with great zeal. After that, Jobs also began to attend the Homemade Computer Club. Jobs soon started talking about the commercial potential of Wozniak's invention.",
+          "Apple I": "The company was incorporated on April 1, 1976. The trilateral partnership agreement was drawn up by Wayne, who also wrote the first Apple I manual and created the first Apple logo.After some time, the company entered a phase of rapid sales growth and prosperity that lasted for several years.",
+          "Crisis and dismissal": "The decline in sales and questionable management actions caused the departure of a number of leading specialists, with whom Jobs parted too easily and confidently. For a while, Jobs was torn between the desire to retain power in the company and the temptation to once again be the captain of a pirate ship. The board fired Jobs from his position as head of the Macintosh department. He left Apple in 1985."
+        }
+      },
+      {
+        "id": 5,
+        "name": "Mark",
+        "surname": "Zuckerberg",
+        "photo": "/img/mark_zuckerberg/mark_zuckerberg.png",
+        "photo_alt": "/img/mark_zuckerberg/mark_zuckerberg_alt.png",
+        "description": "One of the founders and CEO",
+        "company": "Meta",
+        "compLogo": "/img/mark_zuckerberg/MetaLogo.svg",
+        "birthdate": "Birth year: 1984 г. (49 years),",
+        "birthplace": "White Plains, New York ",
+        "slider_images": [
+          "/img/mark_zuckerberg/slidable_1.png",
+          "/img/mark_zuckerberg/slidable_2.png",
+          "/img/mark_zuckerberg/slidable_3.png",
+          "/img/mark_zuckerberg/slidable_4.png",
+          "/img/mark_zuckerberg/slidable_5.png"
+        ],
+        "youtube_embed_url": "https://www.youtube.com/embed/BOoHAOZPJf4",
+        "youtube_ember_url_title": "Find Your Purpose - Mark Zuckerberg Inspirational Speech | Simplilearn",
+        "motivation": "In his interview, Mark Zuckerberg shares advice on how to find your goal and overcome possible mistakes",
+        "office_name": "Meta Headquaters",
+        "office_location": "Meta is headquartered in Menlo Park, a city on the shores of San Francisco Bay, California, USA",
+        "office_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3165.968181185453!2d-122.15085732466412!3d37.48507722879573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fbc96de8dc419%3A0x64979e438bf4e3a5!2z0JzQtdGC0LAg0KXQtdC00LrQstC-0YLQtdGA0YE!5e0!3m2!1sru!2slt!4v1701459974924!5m2!1sru!2slt",
+        "timeline_data": {
+          "Childhood": "Mark was born on May 14, 1984 in White Plains, New York, a few kilometers north of New York City.According to Deuteranope, Zuckerberg distinguishes red and green much worse than blue — the main color of Facebook",
+          "Education": "During his school years, Mark was engaged in computer programming.Mark Zuckerberg did not complete his higher education: in 2002 he entered Harvard University, where he studied at the Faculty of Psychology until 2004. At the same time, Mark attended courses from. He indicated his area of interest as C, C++, Java, Visual Basic, VBScript, JavaScript, PHP and ASP[8]. Zuckerberg has repeatedly described himself as a hacker by vocation.",
+          "Company": "Together with Chris Hughes and Dustin Moskowitz, he began to create the social network Facebook[11]. Eduardo Saverin, a student of Brazilian origin, provided financial assistance to him. His attempts to remove Saverin from the management of the company in 2005 became the subject of a lawsuit.",
+          "Income and wealth": "In 2010, Time magazine named Zuckerberg the person of the Year[13].Owning 24% of the shares of Facebook, Inc., Mark Zuckerberg became the youngest billionaire in history: in March 2010, Forbes magazine recognized him as one of the youngest billionaires on its list with a fortune of $4 billion dollars[23]. Mark Zuckerberg's official salary is only $1.",
+          "Personal life": "On May 19, 2012, Mark Zuckerberg married his longtime girlfriend Priscilla Chan. On December 2, 2015, the couple had a daughter, Maxima Chan (Max).On August 28, 2017, August's daughter was born.On March 24, 2023, Mark's third daughter, Aurelia Chan Zuckerberg, was born."
+        }
+      }
+    ],
+    "developers": [
+      {
+        "id": 1,
+        "name": "Nikolay",
+        "surname": "Shyrynsky",
+        "photo": "/img/kolya.png",
+        "github": "shyrynsky"
+      },
+      {
+        "id": 2,
+        "name": "Kseniya",
+        "surname": "Homelianskaya",
+        "photo": "/img/miami_beachh.png",
+        "github": "homyachim"
+      },
+      {
+        "id": 3,
+        "name": "Daniil",
+        "surname": "Kulchinskiy",
+        "photo": "/img/danik.png",
+        "github": "amy1181996"
+      },
+      {
+        "id": 4,
+        "name": "Anastasia",
+        "surname": "Rachinskaya",
+        "photo": "/img/Mamort_Photo.png",
+        "github": "NickieDrake"
+      }
+    ]
+  }
