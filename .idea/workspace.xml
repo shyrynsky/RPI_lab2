@@ -5,14 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8e9fccb-6f8d-49b0-ab38-6d5150c40182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/PersonTimeline/PersonTimeline.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonTimeline/PersonTimeline.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainContent/MainContent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainContent/MainContent.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person/Person.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Person/Person.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person/Person.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonMap/PersonMap.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonMap/PersonMap.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonMap/PersonMap.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonMap/PersonMap.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonMotivation/PersonMotivation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonMotivation/PersonMotivation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonMotivation/PersonMotivation.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonMotivation/PersonMotivation.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locals/ru/translations.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locals/ru/translations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/PersonDetailsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonDetailsPage.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,24 +52,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Node.js.Person.jsx.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;amy__dev&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/pinky/WebstormProjects/RPI_lab2/src/components/PersonGreeting&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/opt/webstorm/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.Person.jsx.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "amy__dev",
+    "last_opened_file_path": "/home/pinky/WebstormProjects/RPI_lab2/src/components/PersonGreeting",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "ts.external.directory.path": "/opt/webstorm/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components/PersonGreeting" />
@@ -88,6 +94,7 @@
       <workItem from="1702754113102" duration="2393000" />
       <workItem from="1702838129833" duration="18000" />
       <workItem from="1702838159821" duration="3248000" />
+      <workItem from="1702920473128" duration="4826000" />
     </task>
     <servers />
   </component>

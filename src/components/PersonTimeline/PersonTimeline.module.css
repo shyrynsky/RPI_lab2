@@ -1,0 +1,15 @@
+.person_timeline_section {}
+
+.title_container {
+    max-width: 1440px;
+    width: 100%;
+    padding: 10% 8% 5%;
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: uppercase;
+}

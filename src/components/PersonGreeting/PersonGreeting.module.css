@@ -1,9 +1,11 @@
 .back_button {
     position: absolute;
-    left: 420px;
-    top: 25px;
+    left: 5%;
+    top: 2%;
     cursor: pointer;
     z-index: 1;
+    display: flex;
+    gap: 10px;
 }
 
 .back_button_text {
@@ -13,10 +15,11 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    z-index: 1;
 }
 
 .back_button:hover {
-    scale: 1.4;
+    scale: 1.1;
 }
 
 .top_section {
