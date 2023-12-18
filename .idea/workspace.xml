@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8e9fccb-6f8d-49b0-ab38-6d5150c40182" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/PersonTimeline/PersonTimeline.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PersonTimeline/PersonTimeline.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainContent/MainContent.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainContent/MainContent.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Person/Person.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person/Person.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Person/Person.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Person/Person.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonContent/PersonContent.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonGreeting/PersonGreeting.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locals/ru/translations.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locals/ru/translations.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/PersonDetailsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/PersonDetailsPage.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="a8e9fccb-6f8d-49b0-ab38-6d5150c40182" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="amy_dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +42,7 @@
     "Node.js.Person.jsx.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "amy__dev",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/pinky/WebstormProjects/RPI_lab2/src/components/PersonGreeting",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
