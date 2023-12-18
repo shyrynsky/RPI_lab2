@@ -4,15 +4,15 @@ import ArrowLeft from '../../images/left_arrow_black.svg'
 import {useNavigate} from "react-router-dom";
 
 export function PersonGreeting({person}) {
-    const {t} = useTranslation("ns1");
+    const { t } = useTranslation("ns1");
     const navigate = useNavigate()
 
     return (
         <section className="top_section">
             <div className="container">
-                <div className={style.back_button}>
-                    <img src={ArrowLeft} alt="Arrow" onClick={() => navigate("/RPI_lab2/persons")}/>
-                    <div className={style.back_button_text}>{t["content-button"]}</div>
+                <div className={style.back_button} onClick={() => navigate("/RPI_lab2/persons")}>
+                    <img src={ArrowLeft} alt="Arrow"/>
+                    <div className={style.back_button_text}>{t("content-button")}</div>
                 </div>
 
                 <div className={style.top_inner}>

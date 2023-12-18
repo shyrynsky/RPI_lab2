@@ -24,8 +24,6 @@ export function PersonContent({person}) {
         })
     }
 
-    console.log(sliderImages)
-
     return (
         <section className={style.content_section}>
             {/*<div className='container'>*/}

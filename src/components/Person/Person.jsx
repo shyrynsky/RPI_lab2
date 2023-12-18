@@ -7,8 +7,8 @@ export function Person({id, name, surname, photo, description, company, compLogo
     const navigate = useNavigate();
 
     const onPersonDetailsButtonClick = () => {
+        navigate(`/RPI_lab2/persons/${id}`);
         window.scrollTo(0, 0);
-        navigate(`/RPI_lab2/persons/${id}`)
     }
 
     return (

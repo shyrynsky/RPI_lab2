@@ -6,9 +6,10 @@ import {PersonContent} from "../components/PersonContent/PersonContent";
 import {PersonMotivation} from "../components/PersonMotivation/PersonMotivation";
 import {PersonMap} from "../components/PersonMap/PersonMap";
 import {Footer} from "../components/Footer/Footer";
+import {PersonTimeline} from "../components/PersonTimeline/PersonTimeline";
 
 export function PersonDetailsPage({ isRuLang, setRuLang }) {
-    const {t} = useTranslation("ns1");
+    const {t} = useTranslation("ns1")
     const params = useParams()
 
     const personId = params.personId
@@ -29,6 +30,7 @@ export function PersonDetailsPage({ isRuLang, setRuLang }) {
             <Header isRuLang={isRuLang} setRuLang={setRuLang} />
             <PersonGreeting person={person} />
             <PersonContent person={person} />
+            <PersonTimeline person={person} />
             <PersonMotivation person={person} />
             <PersonMap person={person} />
             <Footer />

@@ -54,7 +54,6 @@
 }
 
 .content_button:hover {
-    scale: 1.1;
     background: #000;
     color: #FFF;
 }
