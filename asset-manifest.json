@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RPI_lab2/static/css/main.5c75aec6.css",
-    "main.js": "/RPI_lab2/static/js/main.fde3ab1c.js",
+    "main.css": "/RPI_lab2/static/css/main.7ef5e5eb.css",
+    "main.js": "/RPI_lab2/static/js/main.475d9853.js",
     "static/media/Man.png": "/RPI_lab2/static/media/Man.03fb6b965dfc3fe77fe2.png",
     "static/media/Logo.svg": "/RPI_lab2/static/media/Logo.3f81111e2525acb57f6e5837f7fdff0f.svg",
     "static/media/search_icon.svg": "/RPI_lab2/static/media/search_icon.4df62b7e5618e4476fa9539b5c9d632b.svg",
@@ -10,16 +10,16 @@
     "static/media/Telegram_Icon_w.svg": "/RPI_lab2/static/media/Telegram_Icon_w.f6e6eea52d4598793cb9cdc381eac3ed.svg",
     "static/media/Instagram_Icon.svg": "/RPI_lab2/static/media/Instagram_Icon.8f8feaad5800b395debf758cd3647835.svg",
     "static/media/Instagram_Icon_w.svg": "/RPI_lab2/static/media/Instagram_Icon_w.c68e9b4e804b3e0a1550e5332b7b5f4b.svg",
-    "static/media/Arrow.svg": "/RPI_lab2/static/media/Arrow.aafbf2dbacccefee3c7ca9a17e098464.svg",
-    "static/media/wave.svg": "/RPI_lab2/static/media/wave.d85810849c8bb6c257c610681cd4e6ee.svg",
-    "static/media/left_arrow_black.svg": "/RPI_lab2/static/media/left_arrow_black.6913f49e2053d0b0941fa6f000a36cf0.svg",
-    "static/media/left_arrow_white.svg": "/RPI_lab2/static/media/left_arrow_white.59954d180cfa5219ed4f208802db9d6b.svg",
-    "static/media/right_arrow_white.svg": "/RPI_lab2/static/media/right_arrow_white.9024839165a7bb741ff41645031da445.svg",
-    "main.5c75aec6.css.map": "/RPI_lab2/static/css/main.5c75aec6.css.map",
-    "main.fde3ab1c.js.map": "/RPI_lab2/static/js/main.fde3ab1c.js.map"
+    "static/media/Arrow.svg": "/RPI_lab2/static/media/Arrow.574f709402321a0643c409d4d94643fe.svg",
+    "static/media/wave.svg": "/RPI_lab2/static/media/wave.39226c1da4545597702905a68854ef75.svg",
+    "static/media/left_arrow_black.svg": "/RPI_lab2/static/media/left_arrow_black.c74008b0832f2e7a96ce55f96be031cb.svg",
+    "static/media/left_arrow_white.svg": "/RPI_lab2/static/media/left_arrow_white.9bcfb80f7203c1010fc56f3b9bdd0c0c.svg",
+    "static/media/right_arrow_white.svg": "/RPI_lab2/static/media/right_arrow_white.c04e1374f5f3ceeffa34f7d8c10dfc6a.svg",
+    "main.7ef5e5eb.css.map": "/RPI_lab2/static/css/main.7ef5e5eb.css.map",
+    "main.475d9853.js.map": "/RPI_lab2/static/js/main.475d9853.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c75aec6.css",
-    "static/js/main.fde3ab1c.js"
+    "static/css/main.7ef5e5eb.css",
+    "static/js/main.475d9853.js"
   ]
 }
