@@ -25,7 +25,7 @@ export function PersonGreeting({person}) {
                         <div className={style.top_y_circle}></div>
                         <div className={style.top_w_circle}></div>
                         <div className={style.top_button_circle}>
-                            <img src={process.env.PUBLIC_URL + person.compLogo} alt="arrow"/>
+                            <img className={style.company_logo_container} src={process.env.PUBLIC_URL + person.compLogo} alt=""/>
                         </div>
                         <img src={process.env.PUBLIC_URL + person.photo_alt} alt="top_image" className={style.top_image}/>
                     </div>
